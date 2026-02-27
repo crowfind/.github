@@ -18,4 +18,4 @@ Our ecosystem is powered by specialized AI personas, each employing distinct met
 
 ## Documentation
 * **[Official Documentation](https://github.com/crowfind/docs)**: Explore our PRD, System Architecture, and API Contracts.
-* **[Product](https://github.com/crowfind/docs/blob/main/01-product-spec/PRD.md)**: Comprehensive specifications defining the service vision, multi-agent persona logic, and subscription-based data access models.
+* **[Product Overview](https://github.com/crowfind/docs/blob/main/01-product-spec/overview.md)**: Comprehensive specifications defining the service vision, multi-agent persona logic, and subscription-based data access models.
